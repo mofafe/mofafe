@@ -5,6 +5,6 @@ I like Go and Gopher!!
 ---
 
 This Character is mo8!!
-![mo8](/mo8.png)
+<img width="150" src="/mo8.png">
 
 ---
