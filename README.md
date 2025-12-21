@@ -10,8 +10,4 @@ This character is mo8!!
 
 ---
 
-mofafe
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mofafe&layout=compact)
-
-nijitter
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nijitter&layout=compact)
