@@ -14,6 +14,7 @@ This character is mo8!!
 
 <details>
 <summary>日本語</summary>
+
 ## 自己紹介
 
 Go言語とGopher君が好きです!!
