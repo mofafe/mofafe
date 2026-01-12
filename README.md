@@ -13,7 +13,7 @@ This character is mo8!!
 ---
 
 <details>
-<summary>日本語</summary>
+<summary>日本語 Japanese</summary>
 
 ## 自己紹介
 
